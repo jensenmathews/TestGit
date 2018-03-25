@@ -1,6 +1,7 @@
 Webpage Sources
 
 1. https://scotch.io/courses/create-a-crud-app-with-node-and-mongodb/getting-started
+2. https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize - what Aneesh used to get API working. ignore the postgres stuff.
 
 YouTube Sources
 
